@@ -1,4 +1,4 @@
-Designed for diagnosis - I baer no responsibility for unauthorized uses or hardware damage. <br>
+Designed for diagnosis and I bear no responsibility for unauthorized uses or hardware damage. <br>
 1. Download the firmware file and either the Windows or the Mac version.  Unzip it. <br>
 2. Plug in the ShadowCast 2 Pro into yoru computer <br>
 3. Run the UVC Multi-Tool app (you'll need to toggle your security settings) <br>
