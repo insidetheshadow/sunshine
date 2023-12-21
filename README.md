@@ -4,7 +4,7 @@ Designed for diagnosis and I bear no responsibility for unauthorized uses or har
 3. Run the UVC Multi-Tool app (you'll need to toggle your security settings) <br>
 4. When open, it should automatically detect your VID and PID <br>
 5. Click "Open Device" and the Description field should be filled <br>
-6. Click the "FlashWrite" tab <br> and click the "..." under the Burn Flash section <br>
+6. Click the "FlashWrite" tab and click the "..." under the Burn Flash section <br>
 7. Navigate to where you saved the ShadowCastSunshineFW.hex and select it <br>
 8. Click the "Burn" button and wait for the Writing progress bar to complete <br>
 9. Unplug and replug the ShadowCast's USB-C cable as instructed <br>
